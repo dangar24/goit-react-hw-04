@@ -1,6 +1,6 @@
 import SearchBar from './components/SearchBar/SearchBar'
 import ImageGallery from './components/ImageGallery/ImageGallery'
-import LoadMoreButton from './components/LoadMoreButton/LoadMoreButton'
+import LoadMoreButton from './components/LoadMoreBtn/LoadMoreBtn'
 import Loader from './components/Loader/Loader'
 import ErrorMessage from './components/ErrorMessage/ErrorMessage'
 import ImageModal from './components/ImageModal/ImageModal'

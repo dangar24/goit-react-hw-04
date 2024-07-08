@@ -1,4 +1,4 @@
-import ImageItem from "../ImageItem/ImageItem"
+import ImageItem from "../ImageCard/ImageCard"
 import css from './ImageGallery.module.css'
 
 export default function ImageGallery({ items, openModal }) {

@@ -1,4 +1,4 @@
-import css from './ImageItem.module.css'
+import css from './ImageCard.module.css'
 
 export default function ImageItem({ data, openModal }) {
     return <div className={css.item}>
