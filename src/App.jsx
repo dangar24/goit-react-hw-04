@@ -1,11 +1,11 @@
-import SearchBar from './сomponents/SearchBar/SearchBar'
-import ImageGallery from './сomponents/ImageGallery/ImageGallery'
-import LoadMoreButton from './сomponents/LoadMoreButton/LoadMoreButton'
-import Loader from './сomponents/Loader/Loader'
-import ErrorMessage from './сomponents/ErrorMessage/ErrorMessage'
-import ImageModal from './сomponents/ImageModal/ImageModal'
+import SearchBar from './components/SearchBar/SearchBar'
+import ImageGallery from './components/ImageGallery/ImageGallery'
+import LoadMoreButton from './components/LoadMoreButton/LoadMoreButton'
+import Loader from './components/Loader/Loader'
+import ErrorMessage from './components/ErrorMessage/ErrorMessage'
+import ImageModal from './components/ImageModal/ImageModal'
 import { useState, useEffect } from 'react'
-import { fetchGallery } from './сomponents/Gallery-api'
+import { fetchGallery } from './components/Gallery-api'
 import { Toaster } from 'react-hot-toast';
 import './App.css'
 
